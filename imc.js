@@ -18,4 +18,4 @@ function imc(peso, altura) {
   return imc.toFixed(2);
 }
 
-console.log(imc(8, 1.5));
+console.log(imc(70, 1.5));
